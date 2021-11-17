@@ -7,7 +7,7 @@
 6-Gravar as frutas cadastradas em um arquivo texto
 7-Gravar os objetos em um arquivo (serialização)
 8-Ler os objetos de um arquivo (deserialização)*/
-package Tarefa_m2;
+package Frutaria;
 
 import java.io.BufferedReader;
 import java.io.File;
